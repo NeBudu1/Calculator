@@ -1,5 +1,4 @@
 import random
-from encodings.rot_13 import rot13
 
 money = 100
 emojes = ["🍒", "🃏", "❤️", "🎃", "💲", "♣️", "🦖"]
